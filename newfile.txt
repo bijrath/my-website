@@ -1,1 +1,3 @@
-
+This is a text file.
+Name as newfile.txt.
+Edited 1 time.
