@@ -4,5 +4,3 @@ Edited 1 time.
 switch to new branch.
 
 Changes on master inside GitHub before rebase
-
-conflict
