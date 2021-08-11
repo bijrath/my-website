@@ -6,3 +6,5 @@ switch to new branch.
 Changes on master inside GitHub before rebase
 
 conflict
+
+updating tag with another commit id
